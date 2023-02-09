@@ -1,0 +1,18 @@
+footer {
+    background: #343333;
+    height: 30vh;
+    width: 100%;
+}
+
+footer {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.footer__content {
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
